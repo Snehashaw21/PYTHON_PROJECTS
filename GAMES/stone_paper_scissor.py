@@ -23,3 +23,5 @@ elif user in options:
     print("You lose!")
 else:
     print("Invalid input. Please choose stone, paper, or scissors.")
+
+
